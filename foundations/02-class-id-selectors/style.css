@@ -1,0 +1,26 @@
+
+
+
+#preview {
+    font-size: 36px;
+    color: blue;
+}
+
+#preview1 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.odd {
+background-color: pink;
+font-family: Verdana, 'DejaVu Sans', sans-serif  ;
+}
+
+.oddButDiff {
+    font-size: 24px;
+    background-color: pink;
+}
+
+
